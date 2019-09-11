@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import PromoHeader from './PromoHeader.js';
 import SiteHeader from './SiteHeader.js';
 import MainNavigation from './MainNavigation.js';
+import '../../dist/style.css';
+// import '../../dist/styleSearch.css';
 
 
 export default class App extends Component {
